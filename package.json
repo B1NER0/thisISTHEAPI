@@ -1,0 +1,31 @@
+{
+  "name": "project2api",
+  "version": "1.0.0",
+  "description": "\"# theAPI_pro2\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B1NER0/theAPI_pro2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B1NER0/theAPI_pro2/issues"
+  },
+  "homepage": "https://github.com/B1NER0/theAPI_pro2#readme",
+  "dependencies": {
+    "@azure/ai-text-analytics": "^5.0.1",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.6.3",
+    "nodemon": "^2.0.6",
+    "textract": "^2.5.0"
+  }
+}
